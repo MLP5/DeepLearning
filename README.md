@@ -4,4 +4,4 @@ This dataset contains 8732 labeled sound of urban sounds from 10 classes, you ca
 
 https://urbansounddataset.weebly.com/urbansound8k.html
 
-The idea is to test different models using DeepLearning in order to try to identify the best model
+The idea is to test different models using DeepLearning in order to try to identify the best model comparing DNN, CNN y RNN.
