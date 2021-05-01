@@ -8,6 +8,13 @@ https://urbansounddataset.weebly.com/urbansound8k.html
 
 The idea is to test different models using DeepLearning with Librosa for data preprocessing and feature extractions in order to identify the best model comparing DNN and CNN.
 
+# Visual examples
+
+Street music:
+![Alt text](https://github.com/MLP5/DeepLearning-Urbansound/blob/main/Street_music.png)
+
+
+
 # DNN
 
 We use a DNN with the first hidden two layers with 258 and 128 nodes, the activation function will be 'relu' (we try with other for ex 'tanh' and 'relu' was the best figures), we use Dropout 20% to reduce the overfitting. 
