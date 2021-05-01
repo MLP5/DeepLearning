@@ -18,6 +18,8 @@ Gun shot:
 
 # DNN (Dense Neural Networks)
 
+Notebook: URBANSOUND_DNN
+
 We use a DNN with the first hidden two layers with 258 and 128 nodes, the activation function will be 'relu' (we try with other for ex 'tanh' and 'relu' was the best figures), we use Dropout 20% to reduce the overfitting. 
 
 The output layer has 10 nodes is label's number we have to classify. In this layer we use 'softmax' activation function.
@@ -40,6 +42,8 @@ The curves with the train and validation for accuracy and loss are the next. We 
 ![Alt text](https://github.com/MLP5/DeepLearning-Urbansound/blob/main/DNN.png)
 
 # CNN (Convuntional Neural Networks)
+
+Notebook: URBANSOUND_CNN_FINAL
 
 We use a CNN with the first hidden three layers with 64,64 and 128 nodes, the activation function will be 'relu' (we try with other for ex 'tanh' and 'relu' was the best figures), we use Dropout 50% for the first two layers and 70% for the last to reduce the overfitting. We use 'BatchNormalization' to normalize the input to the activation function and 'MaxPooling2D' to reduce the number of parameters and the overfitting.
 
