@@ -60,6 +60,6 @@ The number of parameter with this model is 153098.
 
 We fit the model with 100 epochs (we can reduce a little this number because the min loss is found before) and 50 batch_size.
 
-The curves with the train and validation for accuracy and loss are the next. We see for both the adjust is very good with very very small overfitting.
+The curves with the train and validation for accuracy and loss are the next. We see for both the adjust is very good with small overfitting.
 
 ![Alt text](https://github.com/MLP5/DeepLearning-Urbansound/blob/main/CNN.png)
