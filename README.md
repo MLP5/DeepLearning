@@ -1,7 +1,15 @@
-# DeepLearning
+# Dataset
 
 This dataset contains 8732 labeled sound of urban sounds from 10 classes, you can download the files in the next url:
 
 https://urbansounddataset.weebly.com/urbansound8k.html
 
-The idea is to test different models using DeepLearning in order to try to identify the best model comparing DNN, CNN and RNN.
+# Objetive
+
+The idea is to test different models using DeepLearning with Librosa for data preprocessing and feature extractions in order to identify the best model comparing DNN and CNN.
+
+# DNN
+
+
+
+# CNN
