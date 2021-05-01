@@ -10,6 +10,6 @@ The idea is to test different models using DeepLearning with Librosa for data pr
 
 # DNN
 
-https://github.com/MLP5/DeepLearning-Urbansound/blob/main/DNN.png
+![Alt text](https://github.com/MLP5/DeepLearning-Urbansound/blob/main/DNN.png)
 
 # CNN
